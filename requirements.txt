@@ -8,3 +8,4 @@ seaborn==0.10.0
 ipython==5.7.0
 jupyter
 notebook
+ipykernel
